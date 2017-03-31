@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidRESTfullEjemplo</string>
+    <string name="boton">Calcular</string>
+    <string name="etiqueta">Entre un numero</string>
+    <string name="resultado">Resultado</string>
+</resources>
